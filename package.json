@@ -1,0 +1,29 @@
+{
+  "name": "@xballoy/renovate-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Xavier Balloy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xballoy/renovate-presentation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xballoy/renovate-presentation/issues"
+  },
+  "homepage": "https://github.com/xballoy/renovate-presentation#readme",
+  "scripts": {
+    "build": "slidev build --base /renovate-presentation/",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "0.34.2",
+    "@slidev/theme-apple-basic": "0.20.0",
+    "date-fns": "2.28.0"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "1.1.24",
+    "playwright-chromium": "1.23.1"
+  }
+}
