@@ -29,10 +29,10 @@
     }
   },
   "dependencies": {
-    "@slidev/types": "0.22.7",
+    "@slidev/types": "0.34.3",
     "codemirror-theme-vars": "0.1.1",
     "prism-theme-vars": "0.2.3",
-    "theme-vitesse": "0.1.14"
+    "theme-vitesse": "0.5.0"
   },
   "scripts": {
     "dev": "slidev example.md --open",
