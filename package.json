@@ -23,7 +23,7 @@
     "date-fns": "2.28.0"
   },
   "devDependencies": {
-    "@iconify-json/mdi": "1.1.26",
-    "playwright-chromium": "1.23.2"
+    "@iconify-json/mdi": "1.1.28",
+    "playwright-chromium": "1.23.4"
   }
 }
